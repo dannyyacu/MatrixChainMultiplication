@@ -56,6 +56,6 @@ Matrix MatrixChain::dynamicChain(){
       }
     }
   }
-  cout << N[0][n - 1] << " " << K[0][n - 1];
+  cout << N[0][n - 1] << " " << K[0][n - 1] << endl;
   return K;
 }
