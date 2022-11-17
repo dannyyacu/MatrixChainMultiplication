@@ -50,7 +50,7 @@ The function `dynamicChain()` should print the value in the top-right corner of 
 
 Additionally, update this README file, copy and paste the results printed by your program.
 
-[UPDATE HERE]
+856383 30
 
 
 ### Step 5 BONUS - Complete the dynamic programming multiplication (+2 on final grade)
